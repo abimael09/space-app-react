@@ -2,7 +2,7 @@
 
 <h2>React + Vite</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Estilizando componentes com Styled Components e manipulando arquivos estáticos</p>
 
 Plugins utilizados (verificar as atualizações):
 
